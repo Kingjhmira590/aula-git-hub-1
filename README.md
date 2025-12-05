@@ -1,2 +1,3 @@
 # aula-git-hub-1
 Aula de GitHub com o professor William no SENAI.
+Esse repositório é só pra teste.
